@@ -1,0 +1,16 @@
+.Light {
+   background-color: rgb(243 244 246);
+  color: black;
+}
+.Dark {
+  background-color: rgb(17 24 39);
+  color: white;
+}
+.Light#color{
+  background-color: rgb(17 24 39);
+  color: white;
+}
+.Dark#color{
+  background-color: rgb(243 244 246); 
+  color: black;
+}
